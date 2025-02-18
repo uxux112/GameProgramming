@@ -30,5 +30,7 @@ int main()
 	printf("실수 출력 : %f\n", float1);
 	printf("문자열 출력 : %s\n", "고블린");
 
+	printf("무기의 이름 : %s, 무기의 레벨 : %d, 무기 성공 확률 : %f", "롱소드", 1, 0.8);
+
 	return 0;
 }
