@@ -99,8 +99,18 @@ int main()
 
 	
 
-	int slot = 10;
-	int stack = 10;
+	int maxInventorySlot = 10;
+	int AStackCount = 99;
+	int BStackCount = 99;
 
+	int ADrop = 322;
+	int BDrop = 127;
 
+	printf("1시간 동안 사냥을 하여 아이템을 획득했습니다.\n");
+	printf("A아이템 : %d, B아이템 : %d 획득.\n", ADrop, BDrop);
+
+	int AInventoryCount = (ADrop % AStackCount) == 0 ? (ADrop / AStackCount) : (AStackCount / ADrop) + 1;
+	int BInventoryCount = (BDrop % BStackCount) == 0 ? (BStackCount / BDrop) : (BStackCount / BDrop) + 1;
+
+	printf("결과 : %s\n", maxInventorySlot <= (AInventoryCount + BInventoryCount) ? "가득참" : "가득안참");
 }
