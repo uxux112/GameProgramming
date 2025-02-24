@@ -71,8 +71,8 @@ int main()
 
 	printf("실습4 : 관계 연산자\n");
 
-	printf("관계 연산자 : %d\n", (num1 != num2) || (num1 < num2)); // != (두 수가 다를 때) or
-	printf("관계 연산자 : %d\n", (num1 != num2) && (num1 < num2)); // != (두 수가 다를 때) and
+	printf("관계 연산자 : %d\n", (num1 != num2) || (num1 < num2)); // != (두 수가 다르거나) or (num2가 더 클 때)
+	printf("관계 연산자 : %d\n", (num1 != num2) && (num1 < num2)); // != (두 수가 다르고) and (num2가 더 클 떄)
 
 
 	printf("실습5 : 복합 연산자\n");

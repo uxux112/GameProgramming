@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "C:\\Users\\gons0\\Desktop\\Programming\\C\\C\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{6748CFB7-C46B-4DB9-95E9-8F8B451BD0B1}|Project1\\Project1.vcxproj|C:\\Users\\gons0\\Desktop\\Programming\\C\\C\\Project1\\Main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6748CFB7-C46B-4DB9-95E9-8F8B451BD0B1}|Project1\\Project1.vcxproj|solutionrelative:Project1\\Main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B39E773-52B6-4B52-8CFB-B2A0F8B20BFE}|Operator\\Operator.vcxproj|C:\\Users\\gons0\\Desktop\\Programming\\C\\C\\Operator\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3B39E773-52B6-4B52-8CFB-B2A0F8B20BFE}|Operator\\Operator.vcxproj|solutionrelative:Operator\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA412D3D-1D71-4472-B5E0-5B1B9FFC779C}|Ch4\\Ch4.vcxproj|C:\\Users\\gons0\\Desktop\\Programming\\C\\C\\Ch4\\Data.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DA412D3D-1D71-4472-B5E0-5B1B9FFC779C}|Ch4\\Ch4.vcxproj|solutionrelative:Ch4\\Data.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{0BF94B98-F7E3-4279-8C0E-A5311D447C21}|Ch5\\Ch5.vcxproj|C:\\Users\\gons0\\Desktop\\Programming\\C\\C\\Ch5\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{0BF94B98-F7E3-4279-8C0E-A5311D447C21}|Ch5\\Ch5.vcxproj|solutionrelative:Ch5\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
@@ -19,12 +31,51 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Main.c",
+              "DocumentMoniker": "C:\\Users\\gons0\\Desktop\\Programming\\C\\C\\Project1\\Main.c",
+              "RelativeDocumentMoniker": "Project1\\Main.c",
+              "ToolTip": "C:\\Users\\gons0\\Desktop\\Programming\\C\\C\\Project1\\Main.c",
+              "RelativeToolTip": "Project1\\Main.c",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-02-22T13:33:38.707Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "main.c",
+              "DocumentMoniker": "C:\\Users\\gons0\\Desktop\\Programming\\C\\C\\Operator\\main.c",
+              "RelativeDocumentMoniker": "Operator\\main.c",
+              "ToolTip": "C:\\Users\\gons0\\Desktop\\Programming\\C\\C\\Operator\\main.c",
+              "RelativeToolTip": "Operator\\main.c",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-02-22T13:32:52.072Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Data.c",
+              "DocumentMoniker": "C:\\Users\\gons0\\Desktop\\Programming\\C\\C\\Ch4\\Data.c",
+              "RelativeDocumentMoniker": "Ch4\\Data.c",
+              "ToolTip": "C:\\Users\\gons0\\Desktop\\Programming\\C\\C\\Ch4\\Data.c",
+              "RelativeToolTip": "Ch4\\Data.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-02-22T13:32:38.422Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "main.c",
               "DocumentMoniker": "C:\\Users\\gons0\\Desktop\\Programming\\C\\C\\Ch5\\main.c",
               "RelativeDocumentMoniker": "Ch5\\main.c",
               "ToolTip": "C:\\Users\\gons0\\Desktop\\Programming\\C\\C\\Ch5\\main.c",
               "RelativeToolTip": "Ch5\\main.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAcAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2025-02-21T07:01:46.965Z",
               "EditorCaption": ""
