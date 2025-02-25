@@ -3,8 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\gons0\\Desktop\\Programming\\C\\C\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{717149F2-F95B-41DA-9E45-4197B11A87C8}|Ch7\\Ch7.vcxproj|C:\\Users\\gons0\\Desktop\\Programming\\C\\C\\Ch7\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{717149F2-F95B-41DA-9E45-4197B11A87C8}|Ch7\\Ch7.vcxproj|solutionrelative:Ch7\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{76D12FC4-8175-4CB4-8838-80D3E4FC1F33}|Ch6\\Ch6.vcxproj|C:\\Users\\gons0\\Desktop\\Programming\\C\\C\\Ch6\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{76D12FC4-8175-4CB4-8838-80D3E4FC1F33}|Ch6\\Ch6.vcxproj|solutionrelative:Ch6\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77CE5DB0-A8CC-4640-B7E6-8FFFB25D7D48}|C\\C.vcxproj|C:\\Users\\gons0\\Desktop\\Programming\\C\\C\\C\\CCC.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{77CE5DB0-A8CC-4640-B7E6-8FFFB25D7D48}|C\\C.vcxproj|solutionrelative:C\\CCC.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{094D55CE-CCA0-482B-9CAA-53E981847DCC}|CH1\\Ch1\\Ch1.vcxproj|C:\\Users\\gons0\\Desktop\\Programming\\C\\C\\CH1\\Ch1\\Variable.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{094D55CE-CCA0-482B-9CAA-53E981847DCC}|CH1\\Ch1\\Ch1.vcxproj|solutionrelative:CH1\\Ch1\\Variable.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,17 +26,56 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CCC.cpp",
+              "DocumentMoniker": "C:\\Users\\gons0\\Desktop\\Programming\\C\\C\\C\\CCC.cpp",
+              "RelativeDocumentMoniker": "C\\CCC.cpp",
+              "ToolTip": "C:\\Users\\gons0\\Desktop\\Programming\\C\\C\\C\\CCC.cpp",
+              "RelativeToolTip": "C\\CCC.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-25T07:03:14.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Variable.c",
+              "DocumentMoniker": "C:\\Users\\gons0\\Desktop\\Programming\\C\\C\\CH1\\Ch1\\Variable.c",
+              "RelativeDocumentMoniker": "CH1\\Ch1\\Variable.c",
+              "ToolTip": "C:\\Users\\gons0\\Desktop\\Programming\\C\\C\\CH1\\Ch1\\Variable.c",
+              "RelativeToolTip": "CH1\\Ch1\\Variable.c",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-02-25T07:02:57.121Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "main.c",
+              "DocumentMoniker": "C:\\Users\\gons0\\Desktop\\Programming\\C\\C\\Ch7\\main.c",
+              "RelativeDocumentMoniker": "Ch7\\main.c",
+              "ToolTip": "C:\\Users\\gons0\\Desktop\\Programming\\C\\C\\Ch7\\main.c",
+              "RelativeToolTip": "Ch7\\main.c",
+              "ViewState": "AgIAAH0AAAAAAAAAAAAcwIoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-02-25T07:02:45.889Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "main.c",
               "DocumentMoniker": "C:\\Users\\gons0\\Desktop\\Programming\\C\\C\\Ch6\\main.c",
               "RelativeDocumentMoniker": "Ch6\\main.c",
               "ToolTip": "C:\\Users\\gons0\\Desktop\\Programming\\C\\C\\Ch6\\main.c",
               "RelativeToolTip": "Ch6\\main.c",
-              "ViewState": "AgIAAHsAAAAAAAAAAAAAAIQAAAACAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAIQAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2025-02-24T07:02:10.669Z",
               "EditorCaption": ""
